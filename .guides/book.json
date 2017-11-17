@@ -1,0 +1,17 @@
+{
+ "name": "mangaforteen",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "fb25ca08-b617-924d-39b4-164d393f4601",
+   "pageId": "fb25ca08-b617-924d-39b4-164d393f4601",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "71ee4ae8-56fb-97a0-7bec-c9bce734a0cf",
+   "pageId": "71ee4ae8-56fb-97a0-7bec-c9bce734a0cf",
+   "type": "page"
+  }
+ ]
+}
