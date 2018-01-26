@@ -1,1 +1,23 @@
-h1{color:red}
+#navbar{
+  background-color: lightblue; 
+  height: 300px;
+  background-image: url(" http://1.bp.blogspot.com/-CPaAcmP2CoA/UNFGpsTT2QI/AAAAAAAAmIo/yBj2LsVMQ1k/s1600/063187.jpg   ");
+} 
+h1{ 
+  text-align: center
+}
+.navlink a{ color : light blue;
+  
+}
+
+
+.navlink{
+  
+  
+  display: inline;}
+.navlink a{ color : lightgreen;
+    float:right;
+  padding: 10px; 
+text-decoration: none;
+  font-size: 1.3em;
+  
